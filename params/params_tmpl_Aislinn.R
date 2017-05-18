@@ -10,6 +10,6 @@ sig2 <- 4.32
 species.name <- "Aislinnonus_pearsonaithacus"
     
 # e.g. "red"    
-color <- "c("#FF69B4")"
+color <- "hotpink"
     
 # tip: pick a color at using rstudio colour picker. Addins > Colour Picker
