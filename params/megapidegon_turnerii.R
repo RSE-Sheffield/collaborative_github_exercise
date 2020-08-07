@@ -7,7 +7,7 @@
 sig2 <- 5
     
 # e.g. "megapidegon_turnerii"    
-species.name <- 
+species.name <- "megapidegon_turnerii"    
     
 # e.g. "red"    
 color <- "purple"
