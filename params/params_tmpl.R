@@ -7,9 +7,20 @@
 sig2 <-  0.5
     
 # e.g. "anas_krystallinus"    
-species.name <- "anas_krystallinus" 
+species.name <- "HaraVenice"
     
 # e.g. "red"    
 color <- "aquamarine3"
     
 # tip: pick a color at using rstudio colour picker. Addins > Colour Picker
+
+
+usethis::git_remotes()
+$origin
+[1] "https://github.com/annakrystalli/collaborative_github_exercise.git"
+
+usethis::use_git_remote(
+  name = "upstream", 
+  url = "https://github.com/RSE-Sheffield/collaborative_github_exercise.git")
+usethis::pr_pull_upstream()
+
