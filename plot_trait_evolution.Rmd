@@ -96,7 +96,7 @@ gf <- list.files("gif/")
 
 if(length(gf) > 0){
   max.x <- max(abs(dt$trait))
-  breaks <- seq(-max.x, max.x, length.out = 51)
+  breaks <- seq(-max.x, max.x, length.out = 50)
   bins <- cut(skull$trait, breaks = breaks, include.lowest = T, labels = F)
   
   for(i in 1:nrow(skull)){
