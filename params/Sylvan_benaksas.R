@@ -11,12 +11,4 @@ species.name <- "Sylvanus_benaksagensis"
     
 # e.g. "red"    
 color <- "red"
-    
-# tip: pick a color at using rstudio colour picker. Addins > Colour Picker
-install.packages("usethis")
-library(usethis)
-usethis::git_sitrep()
 
-usethis::use_git_config(user.name="Sylvanben", user.email="sylvanben1@gmail.com")
-
-gitcreds::gitcreds_set()
