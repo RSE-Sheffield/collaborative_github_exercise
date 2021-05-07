@@ -7,7 +7,7 @@
 sig2 <- 0.24
     
 # e.g. "anas_krystallinus"    
-species.name <- JoCookSpecies
+species.name <- "JoCookSpecies"
     
 # e.g. "red"    
 color <- "palevioletred2"
