@@ -7,6 +7,6 @@ sig2 <- 4.798645
 species.name <- "Pablinius_Smartificus"
     
 # e.g. "red"    
-color <- 0024FF
+color <- "#0024FF"
     
 # tip: pick a color at using rstudio colour picker. Addins > Colour Picker
