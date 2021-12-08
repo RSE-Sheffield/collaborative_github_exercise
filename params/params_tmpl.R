@@ -12,4 +12,4 @@ species.name <-
 # e.g. "red"    
 color <- 
     
-# tip: pick a color at using rstudio colour picker. Addins > Colour Picker
+# For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
