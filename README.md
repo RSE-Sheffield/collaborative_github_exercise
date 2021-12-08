@@ -97,22 +97,45 @@ The parameters each participants need to supply are:
 
 <br>
 
-***
+
 
 ### Once all parameters are collated, look out for the [results](http://rpubs.com/annakrystalli/278074)!
 
+***
+
 ## Running Evolottery locally
+
+### Setup
 
 You will need [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/products/rstudio/download/#download) installed on your local system.
 
-First, open Rstudio and **clone your own fork of the repository**. In the code example below you will need to edit the `repo_spec` argument with your own GitHub account name as well as supply the path where you want the repo cloned to in `destdir`.
+First, open Rstudio and install a couple of setup packages you will need.
+
+```r
+install.packages(c("renv", "usethis"))
+
+```
+
+### Clone fork
+
+Next, **clone your own fork of the repository**. In the code example below you will need to edit the `repo_spec` argument with your own GitHub account name as well as supply the path where you want the repo cloned to in `destdir`.
 
 ```r
 usethis::create_from_github(repo_spec = "YOUR-ACCOUNT-NAME/collaborative_github_exercise", 
                             fork = FALSE, destdir = "path/where/you/want/the/repo/cloned/to")
 ```
 
-This will clone your fork from GitHub and open up the project. Next, run 
+This will clone your fork from GitHub and open up the project. 
+
+### Install dependencies by restoring `renv` library
+
+The project uses `renv` for dependency management. To install all required dependencies into the local project library run:
+
+```r
+renv::restore()
+```
+
+### Synch from upstream repo
 
 Next, **add the `RSE-Sheffield/collaborative_github_exercise` remote repo** to list of remotes **as `upstream`**
 
@@ -126,6 +149,8 @@ usethis::pr_merge_main()
 ```
 
 You should now have all the parameter files submitted by participants in your local `params/` folder
+
+### Run Evolottery
 
 Finally, to generate the Evolottery html webpage, you will need to knit the `plot_trait_evolution.Rmd` file.
 
