@@ -429,6 +429,11 @@
       "Repository": "CRAN",
       "Hash": "6e0ad90ac5669e35d5456cb61b295acb"
     },
+    "usethis": {
+      "Package": "usethis",
+      "Version": "2.1.3",
+      "Source": "Repository"
+    },
     "utf8": {
       "Package": "utf8",
       "Version": "1.2.2",
