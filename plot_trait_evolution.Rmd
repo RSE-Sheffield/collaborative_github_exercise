@@ -106,3 +106,12 @@ if(length(gf) > 0){
 }
 ```
 
+
+### Session Info
+
+```{r}
+sessioninfo::session_info()
+```
+
+
+This projects uses [`renv`](https://rstudio.github.io/renv/articles/renv.html) for dependency management.
