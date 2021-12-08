@@ -101,8 +101,34 @@ The parameters each participants need to supply are:
 
 ### Once all parameters are collated, look out for the [results](http://rpubs.com/annakrystalli/278074)!
 
-### Links to previous evolution lottery sessions:
- 
- - [**Mozfest Github :heart: Rstudio session**](https://rpubs.com/annakrystalli/MozFest_EvoLottery2)
- - [**ISBE Reproducibility Symposium**](https://malikaihle.wordpress.com/openscienceworkshop/program/): [evolutionary lottery](http://rpubs.com/annakrystalli/200121)
- - [**UNAM OpenScience workshop series**](https://annakrystalli.github.io/UNAM/index.html): [evolutionary lottery](http://rpubs.com/annakrystalli/205756)
+## Running Evolottery locally
+
+You will need [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/products/rstudio/download/#download) installed on your local system.
+
+First, open Rstudio and **clone your own fork of the repository**. In the code example below you will need to edit the `repo_spec` argument with your own GitHub account name as well as supply the path where you want the repo cloned to in `destdir`.
+
+```r
+usethis::create_from_github(repo_spec = "YOUR-ACCOUNT-NAME/collaborative_github_exercise", 
+                            fork = FALSE, destdir = "path/where/you/want/the/repo/cloned/to")
+```
+
+This will clone your fork from GitHub and open up the project. Next, run 
+
+Next, **add the `RSE-Sheffield/collaborative_github_exercise` remote repo** to list of remotes **as `upstream`**
+
+```r
+usethis::use_git_remote(name = "upstream", url ="https://github.com/RSE-Sheffield/collaborative_github_exercise.git" , overwrite = TRUE)
+```
+
+Next, **pull** from the upstream repository:
+```r
+usethis::pr_merge_main()
+```
+
+You should now have all the parameter files submitted by participants in your local `params/` folder
+
+Finally, to generate the Evolottery html webpage, you will need to knit the `plot_trait_evolution.Rmd` file.
+
+Open the `plot_trait_evolution.Rmd` file and on the top panel click on the **knit** button. This runs the code and renders the content of the file to html.
+
+Note that because trait evolution is random, your version of the results will differ from those published in the upstream repo.
