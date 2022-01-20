@@ -7,7 +7,7 @@
 sig2 <- 3.7
     
 # e.g. "corvusRob"    
-species.name <- 
+species.name <- "corvusRob"
     
 # e.g. "red"    
 color <- "magenta"
