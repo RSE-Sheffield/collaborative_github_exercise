@@ -10,6 +10,6 @@ sig2 <- 4.6
 species.name <- "stevaptor"
     
 # e.g. "red"    
-color <- "green"
+color <- "forestgreen"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
