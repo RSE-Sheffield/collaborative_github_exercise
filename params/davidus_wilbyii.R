@@ -7,9 +7,9 @@
 sig2 <- 3.14
     
 # e.g. "anas_krystallinus"    
-species.name <- anas_krystallinus
+species.name <- avocet
     
 # e.g. "red"    
-color <- red
+color <- white
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
