@@ -4,12 +4,12 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <- 2.65
-    
-# e.g. "anas_krystallinus"    
-species.name <- "alex_bumblestork"
-    
-# e.g. "red"    
-color <- "green"
-    
+sig2 <- 0.3987654
+
+# e.g. "anas_krystallinus"
+species.name <- "Neili shephardus"
+
+# e.g. "red"
+color <- 'darkmagenta'
+
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
