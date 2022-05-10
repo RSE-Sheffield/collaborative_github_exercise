@@ -10,6 +10,6 @@ sig2 <-
 species.name <- "ata"
     
 # e.g. "red"    
-color <- 
+color <- "yellow"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
