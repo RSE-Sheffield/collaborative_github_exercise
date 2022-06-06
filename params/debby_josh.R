@@ -7,9 +7,9 @@
 sig2 <- 2.7
     
 # e.g. "anas_krystallinus"    
-species.name <- "debby_josh
+species.name <- "debby_josh"
     
-# e.g. "red"    
+# e.g. "red"
 color <- "green"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
