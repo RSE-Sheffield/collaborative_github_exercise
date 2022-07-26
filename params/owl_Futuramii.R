@@ -4,12 +4,12 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <- 3
+sig2 <- "3"
     
 # e.g. "anas_krystallinus"    
-species.name <- owl_futuramii
+species.name <- "owl_futuramii"
     
 # e.g. "red"    
-color <- brown
+color <- "brown"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
