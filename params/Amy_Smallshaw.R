@@ -10,6 +10,6 @@ sig2 <- 3
 species.name <- "Amy Smallshaw"
     
 # e.g. "red"    
-color <- "grey and blue"
+color <- "blue"
     
 # tip: pick a color at using rstudio colour picker. Addins > Colour Picker
