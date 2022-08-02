@@ -4,7 +4,7 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <- 
+sig2 <- 2.9
     
 # e.g. "anas_krystallinus"    
 species.name <-  "big_bird"
