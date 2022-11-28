@@ -7,7 +7,7 @@
 sig2 <- 4.9
     
 # e.g. "anas_krystallinus"    
-species.name <- "sheffield_hawk"
+species.name <- "leeds_hawk"
     
 # e.g. "red"    
 color <- "blue"
