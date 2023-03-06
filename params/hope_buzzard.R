@@ -7,9 +7,9 @@
 sig2 <- 5
     
 # e.g. "anas_krystallinus"    
-species.name <- "birds"
+species.name <- "hope_buzzards"
     
 # e.g. "red"    
-color <- yellow
+color <- "yellow"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
