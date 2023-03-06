@@ -7,7 +7,7 @@
 sig2 <- 2.5
     
 # e.g. "anas_krystallinus"    
-species.name <- "hope_buzzard"
+species.name <- "vv_buzzard"
     
 # e.g. "red"    
 color <- "blue"
