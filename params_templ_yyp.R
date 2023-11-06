@@ -10,6 +10,6 @@ sig2 <- 0.716
 species.name <- "Yanyi_Pu"
     
 # e.g. "red"    
-color <- thistle1
+color <- "thistle1"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
