@@ -7,7 +7,7 @@
 sig2 <- 0.716
     
 # e.g. "anas_krystallinus"    
-species.name <- Yanyi_Pu
+species.name <- "Yanyi_Pu"
     
 # e.g. "red"    
 color <- thistle1
