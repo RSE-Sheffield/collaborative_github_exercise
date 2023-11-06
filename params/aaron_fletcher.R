@@ -1,5 +1,5 @@
 # sigma2: 0 < value < 5
-sig2 <- 4
+sig2 <- 4.0000000000000000000000000000000000000000000000000001
     
 # e.g. "anas_krystallinus"    
 species.name <- "aaron_fletcher"
