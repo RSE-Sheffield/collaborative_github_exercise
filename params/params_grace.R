@@ -7,9 +7,9 @@
 sig2 <- 
     
 # e.g. "anas_krystallinus"    
-species.name <- " C. septempunctata"
+species.name <- " Chilean flamingo"
     
 # e.g. "red"    
-color <- "indianred1 "
+color <- "lightpink "
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
