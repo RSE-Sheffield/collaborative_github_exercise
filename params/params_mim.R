@@ -10,6 +10,6 @@ sig2 <- 1.3
 species.name <- "mim_bluetit"
     
 # e.g. "red"    
-color <- "fuchsia"
+color <- "yellow"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
