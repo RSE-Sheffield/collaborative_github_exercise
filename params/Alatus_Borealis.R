@@ -10,7 +10,7 @@ sig2 <- 1.13
 species.name <- "Alatus Borealis "
     
 # e.g. "red"    
-color <- "russet"
+color <- "tan3"
 
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
