@@ -7,9 +7,9 @@
 sig2 <- 4
     
 # e.g. "anas_krystallinus"    
-species.name <- "Blab"
+species.name <- "Blah"
     
 # e.g. "red"    
-color <- " red4"
+color <- "red4"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
