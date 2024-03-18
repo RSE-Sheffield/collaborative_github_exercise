@@ -7,7 +7,7 @@
 sig2 <- 2.9864
     
 # e.g. "anas_krystallinus"    
-species.name <- "bordomordo "
+species.name <- "bordomordo"
     
 # e.g. "red"    
 color <- "olivedrab2"
