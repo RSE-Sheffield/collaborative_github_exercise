@@ -3,8 +3,8 @@
 # ________________________________________________
 # input parameters
 
-# sigma2: 0 < 4.1203947 < 5
-sig2 <- 
+# sigma2: 0 < x < 5
+sig2 <- 4.1203947
     
 # e.g. "anas_krystallinus"    
 species.name <- "Corvus corax"
