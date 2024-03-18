@@ -4,12 +4,12 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 < 1.13 
+sig2 <- 1.13 
     
 # e.g. "anas_krystallinus"    
 species.name <- "Alatus Borealis "
     
 # e.g. "red"    
-color <- "russett ", "#80461B"
+color <- "russett ", "#FF5733"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
