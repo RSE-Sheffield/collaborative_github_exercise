@@ -4,12 +4,12 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <- 3.14156
-
-# e.g. "anas_krystallinus"
-species.name <- "Neilus pingus"
-
-# e.g. "red"
-color <- "blueviolet"
-
+sig2 <- 2
+    
+# e.g. "anas_krystallinus"    
+species.name <- "Laimoon "
+    
+# e.g. "red"    
+color <- "#FFC0CB"
+    
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
