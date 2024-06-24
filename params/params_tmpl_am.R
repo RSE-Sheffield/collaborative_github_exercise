@@ -10,6 +10,6 @@ sig2 <- 2.51
 species.name <- "Alekhya's hawk"
     
 # e.g. "red"    
-color <- " azure4 "
+color <- "azure4"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
