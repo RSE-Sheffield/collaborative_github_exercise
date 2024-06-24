@@ -7,7 +7,7 @@
 sig2 <- 2.51
     
 # e.g. "anas_krystallinus"    
-species.name <- " Alekhya's hawk "
+species.name <- "Alekhya's hawk"
     
 # e.g. "red"    
 color <- " azure4 "
