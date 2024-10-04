@@ -7,9 +7,11 @@
 sig2 <- 4
     
 # e.g. "anas_krystallinus"    
+
 species.name <- "Grace's bird"
     
 # e.g. "red"    
 color <- "violet"
-    
+
+
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
