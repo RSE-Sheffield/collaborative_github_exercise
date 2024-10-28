@@ -7,7 +7,7 @@
 sig2 <- 3.567
     
 # e.g. "anas_krystallinus"    
-species.name <- " Kanyoni kaja"
+species.name <- "Kanyoni kaja"
     
 # e.g. "red"    
 color <- "darkorchid2"
