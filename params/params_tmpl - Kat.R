@@ -7,7 +7,7 @@
 sig2 <- 4
     
 # e.g. "anas_krystallinus"    
-species.name <- " "
+species.name <- "Kat's bird "
     
 # e.g. "red"    
 color <- "#009dff "
