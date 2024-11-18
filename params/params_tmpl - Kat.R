@@ -10,6 +10,6 @@ sig2 <- 4
 species.name <- "Kat's bird "
     
 # e.g. "red"    
-color <- "#009dff "
+color <- "#009dff"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
