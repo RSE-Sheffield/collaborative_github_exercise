@@ -10,6 +10,6 @@ sig2 <- 3
 species.name <- " Zhang's Rabbit "
     
 # e.g. "red"    
-color <- " blue"
+color <- "blue"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
