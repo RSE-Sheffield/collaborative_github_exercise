@@ -10,6 +10,6 @@ sig2 <- 2.5
 species.name <- "happy bird "
     
 # e.g. "red"    
-color <- " blue"
+color <- "cornflowerblue"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
