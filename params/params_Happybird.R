@@ -7,7 +7,7 @@
 sig2 <- 2.5
     
 # e.g. "anas_krystallinus"    
-species.name <- "happy bird "
+species.name <- "Happy Bird"
     
 # e.g. "red"    
 color <- "cornflowerblue"
