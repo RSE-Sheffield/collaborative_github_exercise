@@ -7,9 +7,9 @@
 sig2 <- 3.66555
     
 # e.g. "anas_krystallinus"    
-species.name <- " Asian Green Bee Eater "
+species.name <- "Asian Green Bee Eater"
     
 # e.g. "red"    
-color <- " Green "
+color <- "green"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
