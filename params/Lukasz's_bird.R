@@ -10,6 +10,6 @@ sig2 <- 2.1245
 species.name <- "Lukasz's penguin"
     
 # e.g. "red"    
-color <- " purple "
+color <- "purple"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
