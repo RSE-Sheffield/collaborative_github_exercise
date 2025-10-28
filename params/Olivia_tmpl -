@@ -10,6 +10,6 @@ sig2 <-
 species.name <- " Beaky "
     
 # e.g. "red"    
-color <- " "
+color <- " chartreuse  "
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
