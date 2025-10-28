@@ -10,6 +10,6 @@ sig2 <- 3
 species.name <- "arman_bird"
     
 # e.g. "Deeppink"    
-color <- " #FF1493"
+color <- "#FF1493"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
