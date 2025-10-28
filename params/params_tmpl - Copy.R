@@ -7,7 +7,7 @@
 sig2 <- 2
     
 # e.g. "anas_krystallinus"    
-species.name <- " borad "
+species.name <- " byrd "
     
 # e.g. "red"    
 color <- " coral "
