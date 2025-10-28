@@ -9,7 +9,7 @@ sig2 <-
 # e.g. "anas_krystallinus"    
 species.name <- " "
     
-# e.g. "#FF1493"    
-color <- " "
+# e.g. "Deeppink"    
+color <- " #FF1493"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
