@@ -27,7 +27,6 @@ In this exercise we will use a github repo to collaboratively collate and simula
 
 
 # **GO!**
-[link to full session handout](https://annakrystalli.github.io/Mozfest_github-rstudio/index.html)
 
 #### **github:** fork 
 
