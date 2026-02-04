@@ -4,13 +4,13 @@
 # input parameters
 
 # sigma2: 0 < value < 5
-sig2 <- 
+sig2 <- 4
 
 # e.g. "anas_krystallinus"
-species.name <- " "
+species.name <- "ayo ib"
 
 # e.g. "red"
-color <- " "
+color <- "#009dff"
 
 # For list of colours available in R, see
 # https://github.com/RSE-Sheffield/collaborative_github_exercise/tree/master/assets/Rcolor.pdf
