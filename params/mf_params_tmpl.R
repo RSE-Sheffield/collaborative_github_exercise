@@ -10,7 +10,7 @@ sig2 <- 3.8
 species.name <- "MF_bird"
 
 # e.g. "red"
-color <- "blue"
+color <- "orchid"
 
 # For list of colours available in R, see
 # https://github.com/RSE-Sheffield/collaborative_github_exercise/tree/master/assets/Rcolor.pdf
