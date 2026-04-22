@@ -10,7 +10,7 @@ sig2 <-
 species.name <- " "
 
 # e.g. "red"
-color <- " "
+color <- " Blue"
 
 # For list of colours available in R, see
 # https://github.com/RSE-Sheffield/collaborative_github_exercise/tree/master/assets/Rcolor.pdf
