@@ -10,7 +10,7 @@ sig2 <- 3
 species.name <- " anas_krystallinus"
 
 # e.g. "red"
-color <- " Blue"
+color <- "blue"
 
 # For list of colours available in R, see
 # https://github.com/RSE-Sheffield/collaborative_github_exercise/tree/master/assets/Rcolor.pdf
