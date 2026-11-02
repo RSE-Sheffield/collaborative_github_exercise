@@ -10,7 +10,7 @@ sig2 <- 2.251996
 species.name <- "anas_krillomonus"
 
 # e.g. "red"
-color <- "blurpul"
+color <- "blueviolet"
 
 # For list of colours available in R, see
 # https://github.com/RSE-Sheffield/collaborative_github_exercise/tree/master/assets/Rcolor.pdf
